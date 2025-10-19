@@ -4,12 +4,13 @@ Welcome! You now have a professional GitHub profile README template ready to cus
 
 ## 📦 What You Got
 
-Your repository now contains 4 files:
+Your repository now contains 5 files:
 
-1. **README.md** - Your main profile (the one that shows on github.com/arhorri)
-2. **CUSTOMIZATION_GUIDE.md** - Detailed guide on how to customize
-3. **CHECKLIST.md** - Quick checklist while editing
-4. **README_EXAMPLE.md** - Example of a filled profile
+1. **README.md** - Your main profile (the one that shows on github.com/[your-username])
+2. **GETTING_STARTED.md** - This quick start guide (you are here!)
+3. **CUSTOMIZATION_GUIDE.md** - Detailed guide on how to customize
+4. **CHECKLIST.md** - Quick checklist while editing
+5. **README_EXAMPLE.md** - Example of a filled profile
 
 ## ⚡ Quick Start (5 Minutes)
 
@@ -38,9 +39,9 @@ Open `README.md` and start replacing placeholders:
 
 **Priority 2 (Recommended):**
 - Lines 25-80: Remove technologies you don't use
-- Lines 86-96: Add your work experience
-- Lines 102-106: Add your education
-- Lines 138-149: Add your social media links
+- Lines 76-87: Add your work experience
+- Lines 92-97: Add your education
+- Lines 128-140: Add your social media links
 
 **Priority 3 (Optional):**
 - Change theme colors
@@ -50,7 +51,7 @@ Open `README.md` and start replacing placeholders:
 ### Step 4: Save and View
 1. Save your changes
 2. Commit to GitHub
-3. Visit github.com/arhorri to see your new profile!
+3. Visit github.com/[your-username] to see your new profile!
 
 ## 🎯 Need More Help?
 
