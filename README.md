@@ -8,10 +8,7 @@
 ### Hi, I'm Alireza 👋
 M.Sc. student in Mechanical Engineering @ Isfahan University of Technology. I build ML/CV systems for analyzing and synthesizing multi-phase steel microstructures.
 
-- 🔬 Thesis: semantic segmentation + attention models for microstructure-property prediction; GANs for realistic microstructure synthesis.
-- 🎓 Teaching Assistant: “Artificial Intelligence” @ IUT.
-- 🤝 Co-author, *Introduction to AI in Mechanical Engineering*; co-founded the department’s first AI team.
-- 🛠 Previously: Component Designer @ Kooshesh Karan Factory (15+ parts, ~300 hours).
+- 🔬 Researchs: semantic segmentation + attention models for microstructure-property prediction; GANs for realistic microstructure synthesis.
 - 🌍 **Mission:** Apply ML + materials science to real-world climate solutions—lower-carbon processes and circular manufacturing.
 - ♻️ **Focus Areas:** Sustainable materials, process optimization, energy efficiency, and scalable tooling for engineers.
 
