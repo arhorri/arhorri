@@ -1,7 +1,9 @@
 <!-- Badges (replace links as needed) -->
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com)
-[![GitHub Followers](https://img.shields.io/github/followers/arhorri?label=Follow&style=social)](https://github.com/arhorri)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-horri-279a11248/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:arhorrii@gmail.com)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/alirezahorri)
+[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=000)](https://huggingface.co/arhorri)
+[![GitHub Followers](https://img.shields.io/github/followers/arhorri?label=Follow&style=social)](https://github.com/arhorri)
 
 ### Hi, I'm Alireza 👋
 M.Sc. student in Mechanical Engineering @ Isfahan University of Technology. I build ML/CV systems for analyzing and synthesizing multi-phase steel microstructures.
